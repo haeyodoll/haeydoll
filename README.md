@@ -1,6 +1,6 @@
 <h2>👩‍💻 Software Development Projects:</h2>
-- [Active Directory Bulk User Creation](https://github.com/DearAgony/AD_PS) <br/>
-- [SWipe (Disk Wiping Utility)](https://github.com/DearAgony/SWipe.PowerShell)
+- [Active Directory Bulk User Creation](https://github.com/haeyodoll/AD_PS) <br/>
+- [SWipe (Disk Wiping Utility)](https://github.com/haeyodoll/SWipe.PowerShell)
 
 <div align="center">
 
@@ -20,9 +20,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DearAgony&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DearAgony&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DearAgony&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=haeyodoll&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=haeyodoll&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=haeyodoll&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
 
@@ -33,6 +33,6 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=Shdowz&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=haeyodoll&icon=2&color=1)](https://visitcount.itsvg.in)
 
 </div>  
